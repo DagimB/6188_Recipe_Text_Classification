@@ -3,12 +3,17 @@ This project aims to classify text data from a Reddit Cooking forum into two cat
 
 <h2>Overview</h2>
 Model 1: Basic Manually Labeled Training Text Classification Model
+
 Model 2: Weakly Labeled Traning Text Classification Model
+
 Model 3: Model 2 + Base Model: 'en_core_web_lg' (linked to Google Drive)
+
 Model 4: Large Hugging Face Model (screenshots only)
+
 Additionally, the repository contains:
 
 Report: Documents the process and findings of the project.
+
 Proposal: Outlines a strategy for cuisine classification labeling.
 
 <h2>Report</h2>
